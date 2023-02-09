@@ -1,0 +1,29 @@
+{
+  "name": "CRUM2023",
+  "version": "1.0.0",
+  "authors": [
+    "Alok Debnath <debnatha@tcd.ie>"
+  ],
+  "description": "Website for the First Workshop on Context Representation in User Modeling",
+  "main": "index.html",
+  "keywords": [
+    "conference", 
+    "workshop"
+  ],
+  "license": "GNU GENERAL PUBLIC LICENSE Version 3",
+  "homepage": "https://github.com/alokdebnath/CRUM-website",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "ionicons": "~2.0.1",
+    "isotope": "~2.2.1",
+    "smooth-scroll": "~7.0.0"
+  }
+}
